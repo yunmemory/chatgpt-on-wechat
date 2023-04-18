@@ -20,5 +20,7 @@ plugins/**/
 !plugins/godcmd
 !plugins/tool
 !plugins/banwords
+!plugins/banwords/**/
 !plugins/hello
 !plugins/role
+!plugins/keyword
