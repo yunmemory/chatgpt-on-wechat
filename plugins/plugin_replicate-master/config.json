@@ -1,5 +1,5 @@
 {
-  "replicate_api_token": "r8_LHGFVpv7eF7vM79SoRcIoLy8BHZxcMo4180hcN",
+  "replicate_api_token": "r8_LHGFVpv7eF7vM79SoRcIoLy8BHZxcMo4180hc",
   "translate_prompt": false,
   "defaults": {
     "model": "cjwbw/anything-v3-better-vae",
